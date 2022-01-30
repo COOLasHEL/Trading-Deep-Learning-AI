@@ -24,7 +24,7 @@ SECTION 2
 
 - Giving the program the ability of deep learning and adjusting/optimizing Settings
 
-- Giving the program the ability of deep learning and adjusting/optimizing Settings according to the Stock Crypto
+- Giving the program the ability of deep learning and adjusting/optimizing Settings according to the Stock/Crypto
 
 
 SECTION 3
