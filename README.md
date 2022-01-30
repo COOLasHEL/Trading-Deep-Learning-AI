@@ -16,7 +16,7 @@ SECTION 2
 
 - Using Data analysis, developing a system using momentum/price action + indicators
 
-- Using Data analysis, developing a system using volume, SMA concepts and institutional Trading Strategies
+- Using Data analysis, developing a system using volume, SM concepts and institutional Trading Strategies
 
 - Using Data analysis, developing a system using complex calculations, math and algorithms
 
