@@ -10,6 +10,8 @@ SECTION 1
 
 - Coding a Optimized Tradingwiev Pine Script
 
+SECTION 2
+
 - Using Data analysis, developing a system of pattern/support,resistance recognition
 
 - Using Data analysis, developing a system using momentum/price action + indicators
@@ -20,19 +22,19 @@ SECTION 1
 
 - Multi Time-Frama Trading Strategy
 
-SECTION 2
+SECTION 3
 
 - Giving the program the ability of deep learning and adjusting/optimizing Settings
 
 - Giving the program the ability of deep learning and adjusting/optimizing Settings according to the Stock/Crypto
 
 
-SECTION 3
+SECTION 4
 
 - Developping a simple Sniping Bot
 
 
-SECTION 4
+SECTION 5
 
 - Adding Webscraping Abilities to the program aswell as money management/optimized money placements
 
@@ -41,7 +43,7 @@ SECTION 4
 - Using Data anlysis and Scraping to predict long term
 
 
-SECTION 5
+SECTION 6
 
 - To Come
 
