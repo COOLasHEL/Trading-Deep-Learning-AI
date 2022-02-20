@@ -20,7 +20,7 @@ SECTION 2
 
 - Using Data analysis, developing a system using complex calculations, math and algorithms
 
-- Multi Time-Frama Trading Strategy
+- Multi Time-Frame Trading Strategy
 
 SECTION 3
 
@@ -48,4 +48,4 @@ SECTION 6
 - To Come
 
 
-                                                                                                             29/01/2022 V 1.0
+                                                                                                  29/01/2022 V 1.0
