@@ -41,11 +41,11 @@ SECTION 5
 - Using Webscraping to predict Pumps and Dumps
 
 - Using Data anlysis and Scraping to predict long term
-
+              
 
 SECTION 6
 
 - To Come
 
  
-                                                                                                                    29/01/2022 V 1.0
+                                                                                                      29/01/2022 V 1.0
